@@ -1,5 +1,3 @@
-readme_content = """# Intelligent SQL Agent
-
 An **Intelligent SQL Agent** built with Python, SQLite, LangGraph, and Streamlit that allows users to ask questions about a database in **plain English**, and automatically generates SQL queries to fetch the results. This project combines NLP and database automation for simplified data access.
 
 ---
